@@ -120,6 +120,7 @@ body {
   color: var(--Dark-Grayish-Blue);
   font-size: x-large;
   margin: 25px 0;
+  font-family: sans-serif;
 }
 .price h1 {
   font-weight: 800;
