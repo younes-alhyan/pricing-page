@@ -1,4 +1,4 @@
-# 📁 Pricing Page
+# 📂 Pricing Page
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1575037683/Challenges/sjsrx7m77v6pxswdm0mx.jpg)
 
